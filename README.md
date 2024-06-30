@@ -1,2 +1,2 @@
 ﻿# desafio-pg
-![screenshot](captura.jpg)
+![screenshot](captura.JPG)
